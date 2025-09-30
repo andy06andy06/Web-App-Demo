@@ -34,5 +34,5 @@ This opens a local web app where you can tweak text snippets, button labels, and
 - `pipenv graph` – inspect the dependency tree.
 
 ## Notes
-- GitHub: https://github.com/
-- NVIDIA Model API: https://docs.nvidia.com/nim/overview/intro.html
+- GitHub: [https://github.com/]
+- NVIDIA Model API: [https://build.nvidia.com/nvidia/nv-grounding-dino?snippet_tab=Python]

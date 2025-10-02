@@ -36,3 +36,7 @@ This opens a local web app where you can tweak text snippets, button labels, and
 ## Notes
 - GitHub: [https://github.com/]
 - NVIDIA Model API: [https://build.nvidia.com/nvidia/nv-grounding-dino?snippet_tab=Python]
+
+
+## email
+andy06andy06@gmail.com

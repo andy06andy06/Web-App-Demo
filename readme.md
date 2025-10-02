@@ -3,7 +3,7 @@
 A minimal playground that demonstrates how to build and preview simple Streamlit layouts inside an isolated Pipenv environment.
 
 ## Prerequisites
-- Python 3.10 or newer installed and available on your PATH
+- Python 3.10 or newer(3.13.2) installed and available on your PATH
 - `pip` available for installing Pipenv
 
 ## Set Up the Pipenv Environment
@@ -13,7 +13,7 @@ A minimal playground that demonstrates how to build and preview simple Streamlit
    ```
 2. Create the virtual environment and install dependencies (Streamlit is the primary one for this project):
    ```bash
-   pipenv install --python 3.10 streamlit
+   pipenv install --python 3.13.2 streamlit
    ```
    If a `Pipfile` already exists, simply run `pipenv install` and Pipenv will recreate the environment defined there.
 3. Activate the virtual environment whenever you want to work on the project:
